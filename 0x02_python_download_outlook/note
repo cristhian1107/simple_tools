@@ -1,0 +1,7 @@
+Package Win32  = https://stackoverflow.com/questions/23864234/importerror-no-module-named-win32com-client
+List number folder = https://docs.microsoft.com/en-us/office/vba/api/outlook.oldefaultfolders
+Subfolder = https://stackoverflow.com/questions/40849742/outlook-using-python-win32com-to-iterate-subfolders
+Attributes = https://www.anycodings.com/1questions/4481189/listing-available-message-attributes-with-win32comclient
+
+python -m pip install pywin32
+python -m pip install pypiwin32
